@@ -7,12 +7,24 @@
   <a href="mailto:daniel.madrid055@pascualbravo.edu.co"><img src="https://img.shields.io/badge/Email-161617?style=for-the-badge" alt="Email"></a>
 </p>
 
-## Sobre mí
+## ¡Hola! Soy estudiante de Ingeniería de Software 👋
 
-Estudiante de 8.º semestre de Ingeniería de Software en la Institución Universitaria Pascual Bravo (Medellín). Me gustan las matemáticas, la programación y el inglés, y los aplico en proyectos de datos, desarrollo web, redes e IoT.
+Estudio 8.º semestre de Ingeniería de Software en la Institución Universitaria Pascual Bravo, en Medellín, Colombia. Me interesa transformar ideas, datos y tecnología en soluciones útiles, combinando el análisis, el desarrollo de software y la experimentación.
 
-- 🏆 Segundo lugar en concursos de Python, en pareja
-- 📖 Aprendiendo: Git, GitHub y más de React y Node.js
+### 🛠️ Áreas de interés
+
+- **Análisis de datos:** limpieza, análisis y visualización con Python, Excel y Power BI. Experiencia académica con regresión lineal múltiple y dashboards.
+- **Desarrollo de software:** aplicaciones web y móviles con React, Node.js, Spring Boot y Android Studio. Trabajo colaborativo y control de versiones con Git y GitHub.
+- **IoT y redes:** prototipos con ESP32 y sensores, integración con ThingSpeak y Firebase, simulación de redes en Cisco Packet Tracer y entornos virtualizados con Kali Linux y Ubuntu en VirtualBox.
+
+### 🏆 Logros y aprendizaje
+
+- Segundo lugar en concursos de Python, participando en equipo.
+- Actualmente fortaleciendo mis conocimientos en Git, GitHub, React y Node.js.
+
+### 💡 Mi enfoque
+
+Me apasiona aprender sobre distintas áreas del conocimiento, documentar lo que construyo y desarrollar soluciones prácticas, procurando que sean claras, útiles y fáciles de mantener.
 
 ## Stack tecnológico
 
