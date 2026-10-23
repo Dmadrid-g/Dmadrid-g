@@ -54,3 +54,9 @@ Mide luz, sonido, temperatura y humedad, y envía los datos a ThingSpeak y Fireb
 ### Galería de fotos
 App de galería con búsqueda y filtros.
 [Código](https://github.com/Dmadrid-g/Intento-de-proyecto-Galeria-fotos)
+
+
+<p align="center">
+  <img src="assets/footer.svg" alt="Dmadrid-g footer" width="100%">
+</p>
+  
